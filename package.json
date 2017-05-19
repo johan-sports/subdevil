@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Cross-platform USB metadata",
   "author": "Antonis Kalou<kalouantonis@protonmail.com>",
+  "homepage": "https://github.com/johan-sports.subdevil",
   "license": "MIT",
   "keywords": [
     "usb",

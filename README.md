@@ -77,13 +77,13 @@ A device is represented as an object containing these attributes:
 
 ```javascript
 {
-  id: '0x22B3-0xEF23-IDQ21AS23AB, // Unique ID for attached device
-  vendorCode: '0x22B3',           // Hex for USB vendor ID
-  productCode: '0xEF23',          // Hex for USB product ID
+  id: '0x22B3-0xEF23-IDQ21AS23AB', // Unique ID for attached device
+  vendorCode: '0x22B3',            // Hex for USB vendor ID
+  productCode: '0xEF23',           // Hex for USB product ID
   manufacturer: 'Foo Bar Technologies', // Name of manufacturer, if available
-  product: 'Code-o-meter 3000',   // Name of product, if available
-  serialNumber: 'IDQ21AS23AB',    // Serial number of device, if available
-  mount: '/Volumes/MY_FILES'      // Path to volume mount point, if available
+  product: 'Code-o-meter 3000',    // Name of product, if available
+  serialNumber: 'IDQ21AS23AB',     // Serial number of device, if available
+  mount: '/Volumes/MY_FILES'       // Path to volume mount point, if available
 }
 ```
 

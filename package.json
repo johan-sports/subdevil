@@ -1,0 +1,27 @@
+{
+  "name": "subdevil",
+  "version": "0.1.0",
+  "description": "Cross-platform USB metadata",
+  "author": "Antonis Kalou<kalouantonis@protonmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "usb",
+    "device"
+  ],
+  "bugs": {
+    "url": "https://github.com/johan-sports/subdevil/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johan-sports/subdevil.git"
+  },
+
+  "main": "./src/subdevil.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}

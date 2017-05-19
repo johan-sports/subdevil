@@ -98,7 +98,7 @@ npm test
 Contributions are more than welcome. Make sure the tests pass, open a PR and 
 add yourself to the [CONTRIBUTORS] file.
 
-[CONTRIBUTORS](https://github.com/johan-sports/subdevil/blob/master/CONTRIBUTORS)
+[CONTRIBUTORS]: https://github.com/johan-sports/subdevil/blob/master/CONTRIBUTORS
 
 ## License
 

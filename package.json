@@ -1,5 +1,5 @@
 {
-  "name": "subdevil",
+  "name": "@johan-sports/subdevil",
   "version": "0.1.0",
   "description": "Cross-platform USB metadata",
   "author": "Antonis Kalou<kalouantonis@protonmail.com>",
@@ -16,7 +16,9 @@
     "type": "git",
     "url": "git://github.com/johan-sports/subdevil.git"
   },
-
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "./src/subdevil.js",
   "scripts": {
     "test": "mocha"
@@ -24,5 +26,8 @@
   "devDependencies": {
     "chai": "^3.3.0",
     "mocha": "^2.3.3"
+  },
+  "engines": {
+    "node": ">=5 <8"
   }
 }
